@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-![banner](https://path/to/your/banner/image.png)
+![banner](xavi.png)
 
 ---
 
