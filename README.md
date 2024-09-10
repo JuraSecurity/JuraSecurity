@@ -1,5 +1,5 @@
-<h1 align="center">Hi Dear! Welcome to my Github</h1>
-<h3 align="center">Pentester & Bug hunter from Indonesia</h3>
+<h1 align="center">AstaGanz Detail</h1>
+<h3 align="center">We are Pentester & Bug hunter from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astaganz&label=Profile%20views&color=0e75b6&style=flat" alt="astaganz" /> </p>
 
