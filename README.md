@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-terminal-gif-here.gif" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4018ff72-6d71-41cd-81bf-a5344f40bec7" width="300"/>
   
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=⭐+Welcome+to+JuraSecurity's+Terminal+⭐;root%40JuraSecurity%3A%7E%23+whoami;🔰+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+🔰;💻+Programmer+%7C+Security+Researcher+💻" alt="Typing SVG" />
