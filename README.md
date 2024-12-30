@@ -59,11 +59,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuraSecurity&theme=radical&hide_border=false"/>
   </p>
 
-  <h2>🏆 GitHub Profile Trophy 🏆</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=JuraSecurity&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-  </p>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2>📈 Contribution Graph 📈</h2>
