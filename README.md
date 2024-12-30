@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4018ff72-6d71-41cd-81bf-a5344f40bec7" width="300"/>
-  
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=⭐+Welcome+to+JuraSecurity's+Terminal+⭐;root%40JuraSecurity%3A%7E%23+whoami;🔰+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+🔰;💻+Programmer+%7C+Security+Researcher+💻" alt="Typing SVG" />
   </div>
@@ -30,8 +28,6 @@
   <a href="https://instagram.com/octagronnn">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <h2>🚀 Tech Arsenal 🚀</h2>
   
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -74,12 +70,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuraSecurity&theme=react-dark&hide_border=true&area=true"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=root%40JuraSecurity%3A%7E%23+exit" alt="Typing SVG" />
-  </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
   <h4>👁️ Profile Views</h4>
   <img src="https://profile-counter.glitch.me/JuraSecurity/count.svg"/>
