@@ -48,19 +48,6 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2>📊 GitHub Analytics 📊</h2>
-
-  <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JuraSecurity&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuraSecurity&layout=compact&theme=radical"/>
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuraSecurity&theme=radical&hide_border=false"/>
-  </p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   <h2>📈 Contribution Graph 📈</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuraSecurity&theme=react-dark&hide_border=true&area=true"/>
 
