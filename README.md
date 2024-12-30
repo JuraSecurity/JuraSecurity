@@ -1,13 +1,86 @@
-<h1 align="center">JuraSecurity Detail</h1>
-<h3 align="center">We are Pentester & Bug hunter from Indonesia</h3>
+<div align="center">
+  <img src="https://your-terminal-gif-here.gif" width="300"/>
+  
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=⭐+Welcome+to+JuraSecurity's+Terminal+⭐;root%40JuraSecurity%3A%7E%23+whoami;🔰+Cybersecurity+Enthusiast+%7C+Ethical+Hacker+🔰;💻+Programmer+%7C+Security+Researcher+💻" alt="Typing SVG" />
+  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astaganz&label=Profile%20views&color=0e75b6&style=flat" alt="astaganz" /> </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/skibidibbosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skibidibbosman" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/QT7XkkMwGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QT7XkkMwGK" height="30" width="40" /></a>
-</p>
+  <h2>🌟 About Me 🌟</h2>
+  
+  ```python
+  class JuraSecurity:
+      def __init__(self):
+          self.name = "JuraSecurity"
+          self.role = "Cybersecurity Enthusiast"
+          self.language_spoken = ["id_ID", "en_US"]
+          self.interests = ["Cybersecurity", "Ethical Hacking", "Programming"]
+  ```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h2>💫 Connect With Me 💫</h2>
+  <a href="mailto:sasageyo960@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/hellojura">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/octagronnn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <h2>🚀 Tech Arsenal 🚀</h2>
+  
+  <h3>👨‍💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+  <h3>🛠 Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h2>📊 GitHub Analytics 📊</h2>
+
+  <p>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JuraSecurity&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuraSecurity&layout=compact&theme=radical"/>
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuraSecurity&theme=radical&hide_border=false"/>
+  </p>
+
+  <h2>🏆 GitHub Profile Trophy 🏆</h2>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=JuraSecurity&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <h2>📈 Contribution Graph 📈</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuraSecurity&theme=react-dark&hide_border=true&area=true"/>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=root%40JuraSecurity%3A%7E%23+exit" alt="Typing SVG" />
+  </div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+  <h4>👁️ Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/JuraSecurity/count.svg"/>
+</div>
